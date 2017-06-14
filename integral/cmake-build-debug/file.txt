@@ -1,0 +1,3 @@
+Result of calculation: 3.43656
+Expected error: 0
+Total time of calculation: 118
